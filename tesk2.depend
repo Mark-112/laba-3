@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606816953 source:d:\gg\tesk2\main.c
+	<stdio.h>
+	<stdlib.h>
+
